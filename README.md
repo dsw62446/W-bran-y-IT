@@ -1,2 +1,2 @@
-# W-bran-y-IT
+# W-branzy-IT
 zadanie 3
